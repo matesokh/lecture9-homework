@@ -1,0 +1,25 @@
+.nav{
+    display: flex;
+    justify-content: flex-end;
+}
+.logo{
+    padding-top: 24px;
+    padding-right: 1050px;
+}
+.li4 {
+    padding-right: 78px;
+    padding-left: 79px;
+    padding-top: 33px;
+}
+.li3 {
+    padding-left: 50px;
+    padding-top: 33px;
+}
+.li2 {
+    padding-left: 50px;
+    padding-top: 33px;
+}
+.li1 {
+    padding-left: 50px;
+    padding-top: 33px;
+}
