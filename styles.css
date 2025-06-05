@@ -23,3 +23,32 @@
     padding-left: 50px;
     padding-top: 33px;
 }
+li {
+    font-weight: 400;
+    font-size: 17px;
+    color: #636060;
+}
+.headerimg {
+    margin-top: 18px;
+    width: 1920px;
+    height: 606px;
+}
+.header {
+    position: relative;
+}
+.headerh {
+    color: #ffff;
+    font-weight: 700;
+    font-size: 79px;
+    transform: translate(820px, 244px);
+}
+.headertxt {
+    position: absolute;
+}
+.headerp {
+    transform: translate(900px, 275px);
+    font-weight: 400;
+    font-size: 19px;
+    color: #ffff;
+}
+
